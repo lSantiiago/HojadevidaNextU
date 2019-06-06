@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<svg width="200" height="80" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+ <g class="layer">
+  <title>Layer 1</title>
+  <text fill="#000000" font-family="Monospace" font-size="24" id="svg_1" stroke="#000000" stroke-width="0" text-anchor="middle" transform="matrix(1.26971 0 0 1.26971 6.36278 6.69616)" x="29.035941" xml:space="preserve" y="22.731943">LuiS</text>
+  <text fill="#000000" font-family="Monospace" font-size="24" id="svg_2" stroke="#000000" stroke-width="0" text-anchor="middle" transform="matrix(1.26971 0 0 1.26971 6.36278 6.69616)" x="94.559829" xml:space="preserve" y="39.29257">antiago</text>
+  <polygon cx="23.82716" cy="57.901235" fill="#000000" id="svg_12" orient="point" point="5" r="0" r2="0" shape="star" strokeWidth="null" strokecolor="none"/>
+  <polygon cx="77.901235" cy="33.703704" fill="#000000" id="svg_13" orient="point" point="5" r="0" r2="0" shape="star" strokeWidth="null" strokecolor="none"/>
+  <polygon cx="-5.061728" cy="-1.851852" fill="#000000" id="svg_17" orient="point" point="5" r="0" r2="0" shape="star" strokeWidth="null" strokecolor="none"/>
+  <polygon cx="-5.061728" cy="-1.851852" fill="#000000" id="svg_21" orient="point" point="5" r="0" r2="0" shape="star" strokeWidth="null" strokecolor="none"/>
+ </g>
+</svg>
