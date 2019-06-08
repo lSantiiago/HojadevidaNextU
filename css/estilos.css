@@ -1,6 +1,6 @@
 body
 {
-background-color: gray;
+background-color: lightgray;
 }
 
 footer
@@ -10,4 +10,19 @@ footer
  img
  {
    border-radius: 10px;
+ }
+
+ #contenedorestudios{
+   font-family: helvetica;
+   font-size: 16px;
+ }
+
+ #Encabezadoestudios{
+   display: block;
+   margin: 0 auto;
+ }
+
+ .linkfoot{
+   font-family: impact;
+   font-size: 14px;
  }
