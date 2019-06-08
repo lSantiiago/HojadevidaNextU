@@ -26,3 +26,11 @@ footer
    font-family: impact;
    font-size: 14px;
  }
+
+a[href^='html']{
+  color: magenta;
+}
+
+img[src$=".png"]{
+  border: solid 5px black;
+}
