@@ -31,6 +31,23 @@ a[href^='html']{
   color: magenta;
 }
 
-img[src$=".png"]{
-  border: solid 5px black;
+*{
+  margin: 1vh 1vw;
+
+}
+
+h1 + h2{
+  text-decoration: underline;
+}
+
+h2 ~ p {
+  text-align: justify;
+}
+
+article> h2 {
+  text-decoration: underline;
+}
+
+ul li {
+  list-style-type: square;
 }
