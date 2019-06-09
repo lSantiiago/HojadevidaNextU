@@ -51,3 +51,32 @@ article> h2 {
 ul li {
   list-style-type: square;
 }
+
+a[href^='html']:visited{
+  color: purple;
+}
+
+a:hover{
+  color:pink;
+}
+
+h2:first-child{
+  text-decoration: underline;
+}
+
+input:focus{
+  width: 160px;
+  height: 140px;
+}
+
+p::first-letter{
+  text-transform: capitalize;
+}
+
+P::first-line{
+  font-size: 32px;
+}
+
+p::selection{
+  color: yellow;
+}
